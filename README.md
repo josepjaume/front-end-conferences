@@ -171,6 +171,10 @@ Odessa, **Ukraine**
 29-30 August 2019  
 Zürich, **Switzerland**
 
+[**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
+4-6 September 2019
+Sitges, Barcelona, **Spain**
+
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
